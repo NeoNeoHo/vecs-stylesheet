@@ -1008,7 +1008,7 @@ body .home-home4 .img-overlay:hover a:before {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  padding: 30px 0px;
+  padding: 30px 0px 0px 0px;
   margin:0px;
 }
 .home-default .logo-store a {
@@ -1357,19 +1357,19 @@ body .home-home4 .img-overlay:hover a:before {
   margin-right: 3px;
 }
 #cart .icon-cart {
-  color: #ffffff;
-  font-size: 16px;
-  height: 29px;
-  line-height: 29px;
+  color: #8b964a;
+  /*font-size: 16px;*/
+  /*height: 29px;*/
+  /*line-height: 29px;*/
   text-align: center;
-  margin-right: 10px;
-  width: 32px;
+  /*margin-right: 10px;*/
+  /*width: 32px;*/
   position: relative;
-  background-color: #858735;
+  /*background-color: #ffffff;*/
   cursor: pointer;
 }
 #cart .icon-cart:hover {
-  background-color: #BECC7F;
+  /*background-color: #BECC7F;*/
 }
 #cart .dropdown-menu {
   min-width: 100%;
