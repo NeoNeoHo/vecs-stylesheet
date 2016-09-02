@@ -3620,25 +3620,25 @@ padding: 0 @product-padding;
   font-family: 'Noticia Text';
   font-style: normal;
   font-weight: 400;
-  src: local('Noticia Text'), local('NoticiaText-Regular'), url(http://fonts.gstatic.com/s/noticiatext/v6/wdyV6x3eKpdeUPQ7BJ5uUHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+  src: local('Noticia Text'), local('NoticiaText-Regular'), url(://fonts.gstatic.com/s/noticiatext/v6/wdyV6x3eKpdeUPQ7BJ5uUHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
 }
 @font-face {
   font-family: 'Noticia Text';
   font-style: normal;
   font-weight: 700;
-  src: local('Noticia Text Bold'), local('NoticiaText-Bold'), url(http://fonts.gstatic.com/s/noticiatext/v6/pEko-RqEtp45bE2P80AAKXl4twXkwp3_u9ZoePkT564.woff) format('woff');
+  src: local('Noticia Text Bold'), local('NoticiaText-Bold'), url(://fonts.gstatic.com/s/noticiatext/v6/pEko-RqEtp45bE2P80AAKXl4twXkwp3_u9ZoePkT564.woff) format('woff');
 }
 @font-face {
   font-family: 'Noticia Text';
   font-style: italic;
   font-weight: 400;
-  src: local('Noticia Text Italic'), local('NoticiaText-Italic'), url(http://fonts.gstatic.com/s/noticiatext/v6/dAuxVpkYE_Q_IwIm6elsKHpumDtkw9GHrrDfd7ZnWpU.woff) format('woff');
+  src: local('Noticia Text Italic'), local('NoticiaText-Italic'), url(://fonts.gstatic.com/s/noticiatext/v6/dAuxVpkYE_Q_IwIm6elsKHpumDtkw9GHrrDfd7ZnWpU.woff) format('woff');
 }
 @font-face {
   font-family: 'Noticia Text';
   font-style: italic;
   font-weight: 700;
-  src: local('Noticia Text Bold Italic'), local('NoticiaText-BoldItalic'), url(http://fonts.gstatic.com/s/noticiatext/v6/-rQ7V8ARjf28_b7kRa0Jur0qgHI2SEqiJszC-CVc3gY.woff) format('woff');
+  src: local('Noticia Text Bold Italic'), local('NoticiaText-BoldItalic'), url(://fonts.gstatic.com/s/noticiatext/v6/-rQ7V8ARjf28_b7kRa0Jur0qgHI2SEqiJszC-CVc3gY.woff) format('woff');
 }
 /******************************************************
  * @package Pav Opencart Theme Framework for Opencart 1.5.x
