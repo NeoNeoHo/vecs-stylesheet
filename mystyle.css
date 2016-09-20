@@ -1,0 +1,102 @@
+
+/* Cancel out col-md-12's padding: 10px issue; */
+.col-fullwidth-offset {
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+.nav-tabs-center > li, .nav-pills-center > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs-center, .nav-pills-center {
+    text-align:center;
+}
+
+
+/* *************************************************
+ "Our Story" Page Stylesheet 
+ */
+.story-area {
+	color: #999;
+	/*background-color: #F0EEF1;*/
+}
+
+.story-area .page-header {
+	color: black;
+}
+
+.story-area .section-bg {
+  position: relative;
+  top: -220px;
+}
+
+.story-area .section-bg {
+  position: relative;
+  top: -150px;
+  /*padding: 45px;*/
+  width: 300px;
+  margin-bottom: -300px;
+}
+
+.story-area .section {
+	margin-top: 24px;
+}
+
+.story-area .section > p {
+	line-height: 2em;
+	margin: 0;
+}
+
+.story-area .section .title {
+	color: #8b964a;
+}
+
+.story-area .nav-tabs>li.active>a, .story-area .nav-tabs>li.active>a:focus, .story-area .nav-tabs>li.active>a:hover {
+	background-color: #fff;
+	color: #999;
+	border-bottom: #999 solid 1px;
+}
+
+/* 
+ End of "Our Story" Page Stylesheet 
+ *******
+ **************************************************************
+ */
+
+
+
+/* *************************************************
+ Mobile Touch Slider Css
+ */
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+	text-align: center;
+	font-size: 18px;
+	background: #fff;
+	/* Center slide text vertically */
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+/* 
+ End of Mobile Touch Slider Css
+ *************************************************
+ */
