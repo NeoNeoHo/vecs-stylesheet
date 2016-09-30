@@ -5,6 +5,16 @@
 	margin-right: -10px;
 }
 
+
+/* Create Scroll to Top Button Css*/
+.goTop {
+	z-index: 999;
+	position:fixed;
+    top:-100px;
+    right:10px;
+}
+
+
 .nav-tabs-center > li, .nav-pills-center > li {
     float:none;
     display:inline-block;
