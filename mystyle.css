@@ -29,10 +29,6 @@
 	color: black;
 }
 
-.story-area .section-bg {
-  position: relative;
-  top: -220px;
-}
 
 .story-area .section-bg {
   position: relative;
@@ -46,7 +42,11 @@
 	margin-top: 24px;
 }
 
-.story-area .section > p {
+.story-area .section-lg {
+	margin-top: 48px;
+}
+
+.story-area .section p {
 	line-height: 2em;
 	margin: 0;
 }
@@ -61,6 +61,18 @@
 	border-bottom: #999 solid 1px;
 }
 
+.story-area .text-year {
+	font-size: 48px;
+	letter-spacing: 12px;
+}
+
+.img-small-width {
+	width: 200px;
+}
+
+.img-full-width {
+	width: 100%;
+}
 /* 
  End of "Our Story" Page Stylesheet 
  *******
